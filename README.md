@@ -15,32 +15,32 @@ Primer Parcial
 
 [Newton-Raphson](https://github.com/A01229598/Newton-Raphson-Parcial-1)
 
-[Falsa Posición] (https://github.com/A01229598/Falsa-Posicion)
+[Falsa Posición](https://github.com/A01229598/Falsa-Posicion)
 
-[Punto Fijo] (https://github.com/A01229598/Punto-Fijo)
+[Punto Fijo](https://github.com/A01229598/Punto-Fijo)
 
-[Metodos Graficos ] (https://github.com/A01229598/Metodo-Grafico)
+[Metodos Graficos ](https://github.com/A01229598/Metodo-Grafico)
 
 Segundo Parcial:
-[Funciones de matrices] (https://github.com/A01229598/Matrices)
+[Funciones de matrices](https://github.com/A01229598/Matrices)
 
-[Eliminacion de Gauss] (https://github.com/A01229598/Eliminacion-Gaussiana)
+[Eliminacion de Gauss](https://github.com/A01229598/Eliminacion-Gaussiana)
 
-[Factorizacion LU] (https://github.com/A01229598/Factorizacion-LU)
+[Factorizacion LU](https://github.com/A01229598/Factorizacion-LU)
 
-[Newton Raphson] (https://github.com/A01229598/Newton-Raphson)
+[Newton Raphson](https://github.com/A01229598/Newton-Raphson)
 
-[Gauss Seidel] (https://github.com/A01229598/Gauss-Seidel)
+[Gauss Seidel](https://github.com/A01229598/Gauss-Seidel)
 
 Tercel Parcial:
 
-[Intepolacion Polinomial] (https://github.com/A01229598/Interpolacion)
+[Intepolacion Polinomial](https://github.com/A01229598/Interpolacion)
 
-[Regresion Polinomial] (https://github.com/A01229598/Regresion-Polinomial)
+[Regresion Polinomial](https://github.com/A01229598/Regresion-Polinomial)
 
-[Metodo LaGrange] (https://github.com/A01229598/LaGrange)
+[Metodo LaGrange](https://github.com/A01229598/LaGrange)
 
-[Integracion por numeros] (https://github.com/A01229598?tab=repositories)
+[Integracion por numeros](https://github.com/A01229598?tab=repositories)
 
-[Euler] (https://github.com/A01229598/Euler)
+[Euler](https://github.com/A01229598/Euler)
 
