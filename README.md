@@ -22,6 +22,7 @@ Primer Parcial
 [Metodos Graficos ](https://github.com/A01229598/Metodo-Grafico)
 
 Segundo Parcial:
+
 [Funciones de matrices](https://github.com/A01229598/Matrices)
 
 [Eliminacion de Gauss](https://github.com/A01229598/Eliminacion-Gaussiana)
