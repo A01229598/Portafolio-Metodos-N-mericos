@@ -1,4 +1,4 @@
-# Portafolio-Metodos-N-mericos
+# Portafolio-Metodos-Numericos Jorge Lemus A01229598
 El análisis numérico o cálculo numérico es la rama de las matemáticas encargada de diseñar algoritmos para, a través de números y reglas matemáticas simples, simular procesos matemáticos más complejos aplicados a procesos del mundo real.
 
 El análisis numérico cobra especial importancia con la llegada de los ordenadores. Los ordenadores son útiles para cálculos matemáticos extremadamente complejos, pero en última instancia operan con números binarios y operaciones matemáticas simples.
