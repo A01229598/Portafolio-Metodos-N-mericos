@@ -4,7 +4,9 @@ El análisis numérico o cálculo numérico es la rama de las matemáticas encar
 El análisis numérico cobra especial importancia con la llegada de los ordenadores. Los ordenadores son útiles para cálculos matemáticos extremadamente complejos, pero en última instancia operan con números binarios y operaciones matemáticas simples.
 
 Desde este punto de vista, el análisis numérico proporcionará todo el andamiaje necesario para llevar a cabo todos aquellos procedimientos matemáticos susceptibles de expresarse algorítmicamente, basándose en algoritmos que permitan su simulación o cálculo en procesos más sencillos empleando números.
-En general, estos métodos se aplican cuando se necesita un valor numérico como solución a un problema matemático, y los procedimientos "exactos" o "analíticos" (manipulaciones algebraicas, teoría de ecuaciones diferenciales, métodos de integración, etc.) son incapaces de dar una respuesta. Debido a ello, son procedimientos de uso frecuente por físicos e ingenieros, y cuyo desarrollo se ha visto favorecido por la necesidad de éstos de obtener soluciones, aunque la precisión no sea completa. Debe recordarse que la física experimental, por ejemplo, nunca arroja valores exactos sino intervalos que engloban la gran mayoría de resultados experimentales obtenidos, ya que no es habitual que dos medidas del mismo fenómeno arrojen valores exactamente iguales.
+En general, estos métodos se aplican cuando se necesita un valor numérico como solución a un problema matemático, y los procedimientos "exactos" o "analíticos" (manipulaciones algebraicas, teoría de ecuaciones diferenciales, métodos de integración, etc.) son incapaces de dar una respuesta. Debido a ello, son procedimientos de uso frecuente por físicos e ingenieros, y cuyo desarrollo se ha visto favorecido por la necesidad de éstos de obtener soluciones, aunque la precisión no sea completa
+
+Temas vistos durante el semestre:
 
 
 Primer Parcial
